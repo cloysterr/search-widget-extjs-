@@ -1,11 +1,11 @@
-Ext.define('Nc.ux.widget.configSearchBar.DeviceSearchWidget',{
+Ext.define('SearchWidget.ux.widget.configSearchBar.DeviceSearchWidget',{
     extend:'Ext.Container',
     xtype: 'searchConfig-widget',
     controller: 'devicesearch-widget',
     requires: [
         'Ext.form.field.ComboBox',
         'Ext.form.field.Text',
-        'Nc.ux.widget.configSearchBar.DeviceSearchWidgetController'
+        'SearchWidget.ux.widget.configSearchBar.DeviceSearchWidgetController'
     ],
     items: [
         {
