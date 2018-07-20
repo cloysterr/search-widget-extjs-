@@ -1,4 +1,4 @@
-		{
+	{
             "path": "${node.modules.dir}/codemirror/addon/search/search.js"
         },
         {
