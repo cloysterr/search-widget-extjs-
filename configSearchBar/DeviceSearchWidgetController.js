@@ -1,4 +1,4 @@
-Ext.define('Nc.ux.widget.configSearchBar.DeviceSearchWidgetController', {
+Ext.define('SearchWidget.ux.widget.configSearchBar.DeviceSearchWidgetController', {
     extend: 'Ext.app.ViewController',
     alias: 'controller.devicesearch-widget',
 
