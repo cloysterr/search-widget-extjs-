@@ -1,0 +1,36 @@
+.highlight-color {
+    background-color: #FFFF00;
+}
+
+.current-occurence-highlight-color {
+    background-color: #ff9632;
+}
+
+
+.occurence-cls {
+    width:50px;
+    height: 32px;
+    padding: 7px 7px 7px 7px;
+    border-width: 1px;
+    background-color: #f8f8f9;
+}
+
+.versions-observer-cls {
+    .x-box-target {
+        background-color: $nc-light-background-color;
+    }
+
+    .__versionToolbar {
+        position: relative !important;
+        float: right;
+        left: 0 !important;
+        background-color: inherit;
+    }
+    .__deviceSearchToolbar {
+        position: relative !important;
+        float: right;
+        left: 0 !important;
+        background-color: inherit;
+    }
+
+}

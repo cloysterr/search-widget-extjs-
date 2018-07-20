@@ -1,0 +1,15 @@
+		{
+            "path": "${node.modules.dir}/codemirror/addon/search/search.js"
+        },
+        {
+            "path": "${node.modules.dir}/codemirror/addon/search/searchcursor.js"
+        },
+        {
+            "path": "${node.modules.dir}/codemirror/addon/search/jump-to-line.js"
+        },
+        {
+            "path": "${node.modules.dir}/codemirror/addon/dialog/dialog.js"
+        },
+        {
+            "path": "${node.modules.dir}/showdown/dist/showdown.js"
+        },
